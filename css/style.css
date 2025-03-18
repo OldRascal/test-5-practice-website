@@ -272,7 +272,7 @@ p {
 .bg-picture1 {
     background: url(../img/bg-does-more.webp) no-repeat center / cover, #1a1a1a;
 }
-tr:hover {
+tbody tr:hover {
     background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(99, 0, 57, 0.9) 100%);
 }
 
