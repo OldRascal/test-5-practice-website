@@ -286,7 +286,7 @@ tbody tr:hover {
     position: absolute;
     content: "";
     top: 0;
-    bottom: 12.5%;
+    bottom: 0;
     right: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.65);
